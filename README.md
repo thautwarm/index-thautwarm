@@ -5,6 +5,18 @@ P.S: I will list repos of my academic and industrial collaborations in my GitHub
 
 This repo is an index of my other GitHub repos, with classification notes.
 
+My blog pages are available at [Site-32](https://thautwarm.github.io/Site-32/), and the contents of this pages are
+
+- [Programming Languages By Me](https://github.com/thautwarm/LanguageCollections)
+- [Unique Investigations of Python](https://github.com/thautwarm/index-thautwarm#in-julia-a-golden-experience-of-working-with-those-cleverest-scientists)
+- [Enjoying the Freedom of Julia](https://github.com/thautwarm/index-thautwarm#in-julia-a-golden-experience-of-working-with-those-cleverest-scientists)
+- [Parsing, and fastest Python parser generator over the world](https://github.com/thautwarm/index-thautwarm#parsing)
+- [Miscellaneous](https://github.com/thautwarm/index-thautwarm#miscellaneous)
+
+
+-----------------------------------------------
+
+
 Programming Languages By Me
 ----------------------------------------
 
@@ -95,7 +107,34 @@ I want to appreciate the community for their appreciations to my works!
     - topic: Python to Julia transpiler
 
 
-Some Small Repos
+Parsing
+-----------------------------
+
+I used to pay quite a lot of efforts to work out a good parser generator.
+
+Fortunately, I finally succeeded in making **the fastest Python parser generator**,
+which is statically generated, and much faster than the other alternatives.
+
+I wasted too much time on PEG and parser combinators during 2017 to the early 2019, because implementations of them in dynamic programming languages are certainly very slow.
+
+I finally made this cross-language parser generator.
+
+- Repo: https://github.com/thautwarm/RBNF.hs
+    - topic: parser analysis, optimizations and generators
+
+- Repo: https://github.com/thautwarm/rbnf-rts
+    - topic: Python wrapper for RBNF.hs with some very convenient syntax sugars.
+
+
+The previous attempts(not recommended to use except RBNF.jl):
+- https://github.com/thautwarm/EBNFParser
+- https://github.com/thautwarm/RBNF
+- https://github.com/thautwarm/RBNF.jl
+- https://github.com/thautwarm/Ruiko.fs
+
+
+
+Miscellaneous
 ---------------------
 
 - Repo: https://github.com/thautwarm/resume
@@ -131,35 +170,6 @@ Some Small Repos
 
 - Repo: https://github.com/thautwarm/LLAST
     - topic: emitting LLVM IRs from recursive IRS like ASTs.
-
-Parsing
------------------------------
-
-I used to pay quite a lot of efforts to work out a good parser generator.
-
-Fortunately, I finally succeeded in making **the fastest Python parser generator**,
-which is statically generated, and much faster than the other alternatives.
-
-I wasted too much time on PEG and parser combinators during 2017 to the early 2019, because implementations of them in dynamic programming languages are certainly very slow.
-
-I finally made this cross-language parser generator.
-
-- Repo: https://github.com/thautwarm/RBNF.hs
-    - topic: parser analysis, optimizations and generators
-
-- Repo: https://github.com/thautwarm/rbnf-rts
-    - topic: Python wrapper for RBNF.hs with some very convenient syntax sugars.
-
-
-The previous attempts(not recommended to use except RBNF.jl):
-- https://github.com/thautwarm/EBNFParser
-- https://github.com/thautwarm/RBNF
-- https://github.com/thautwarm/RBNF.jl
-- https://github.com/thautwarm/Ruiko.fs
-
-
-
-
 
 
 -----------------------------------------
