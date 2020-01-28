@@ -6,8 +6,8 @@ P.S: I will list repos of my academic and industrial collaborations in my GitHub
 My blog pages are available at [Site-32](https://thautwarm.github.io/Site-32/), and the contents of this page are
 
 - [Programming Languages By Me](https://github.com/thautwarm/LanguageCollections)
-- [Unique Investigations of Python](https://github.com/thautwarm/index-thautwarm#in-julia-a-golden-experience-of-working-with-those-cleverest-scientists)
-- [Enjoying the Freedom of Julia](https://github.com/thautwarm/index-thautwarm#in-julia-a-golden-experience-of-working-with-those-cleverest-scientists)
+- [Unique Investigations of Python](https://github.com/thautwarm/index-thautwarm#unique-investigations-in-python)
+- [Enjoying the Freedom of Julia](https://github.com/thautwarm/index-thautwarm#enjoying-the-freedom-of-julia)
 - [Parsing, and fastest Python parser generator over the world](https://github.com/thautwarm/index-thautwarm#parsing)
 - [Miscellaneous](https://github.com/thautwarm/index-thautwarm#miscellaneous)
 
@@ -20,7 +20,7 @@ Programming Languages By Me
 
 Check out the large list at https://github.com/thautwarm/LanguageCollections .
 
-In Python: A Lone Journey to Start Brand-new Fields
+Unique Investigations in Python
 ----------------------------------------------------------
 
 We shall never loss our braveness to address complex problems in real world,
@@ -66,10 +66,8 @@ this is the motivation to start the following works.
 People in my research fields are usually not willing to give a good comment to Python, I certainly understand their concerns. But for me, Python is special, because this is the first language I found very consistent and spent much time with.
 
 
-In Julia: A Golden Experience of Working With Those Cleverest Scientists
+Enjoying the Freedom of Julia
 -----------------------------------------------
-
-I use the term "Scientists" for they're always mathematicians, physicists and biologists. (don't argue about whether a mathematician is a scientist..)
 
 I started playing with Julia since its v0.4, got involved in the community since its v1.0, and highly praise the active and friendly community of Julia. They do provide good chances to allow users and developers to interact unbelievable frequently.
 
