@@ -1,11 +1,9 @@
 Index of Thautwarm's own repos
 ====================================================
 
-P.S: I will list repos of my academic and industrial collaborations in my GitHub profile. So here is only for indexing my own repos.
+P.S: I will list repos of my academic and industrial collaborations in my GitHub profile. So here is only for indexing my own repos, with classification notes.
 
-This repo is an index of my other GitHub repos, with classification notes.
-
-My blog pages are available at [Site-32](https://thautwarm.github.io/Site-32/), and the contents of this pages are
+My blog pages are available at [Site-32](https://thautwarm.github.io/Site-32/), and the contents of this page are
 
 - [Programming Languages By Me](https://github.com/thautwarm/LanguageCollections)
 - [Unique Investigations of Python](https://github.com/thautwarm/index-thautwarm#in-julia-a-golden-experience-of-working-with-those-cleverest-scientists)
