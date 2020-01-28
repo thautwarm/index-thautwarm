@@ -6,7 +6,7 @@ P.S: I will list repos of my academic and industrial collaborations in my GitHub
 My blog pages are available at [Site-32](https://thautwarm.github.io/Site-32/), and the contents of this page are
 
 - [Programming Languages By Me](https://github.com/thautwarm/LanguageCollections)
-- [Unique Investigations of Python](https://github.com/thautwarm/index-thautwarm#unique-investigations-in-python)
+- [Unique Investigations in Python](https://github.com/thautwarm/index-thautwarm#unique-investigations-in-python)
 - [Enjoying the Freedom of Julia](https://github.com/thautwarm/index-thautwarm#enjoying-the-freedom-of-julia)
 - [Parsing, and fastest Python parser generator over the world](https://github.com/thautwarm/index-thautwarm#parsing)
 - [Miscellaneous](https://github.com/thautwarm/index-thautwarm#miscellaneous)
@@ -182,4 +182,4 @@ I was moving forward with non-trivial hard-working(a comment from one of my supe
 Although things totally changed years later, creating artificial intelligence is still my dream,
 but it is now only a pastime.
 
-I chose Programming Languages, because I found it's the secret to become efficient in working for almost every areas. This could be a little subjective: my idea is, by learning about more of PL, I will be able to experience more species of programming fields.
+I chose Programming Languages, because I found it's the secret to become efficient in working for almost every areas. This could be a little subjective: my idea is, by learning about more of PL, I will be knowledgable and energetic enough to experience more species of programming fields.
