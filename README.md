@@ -9,7 +9,7 @@ My blog pages are available at [Site-32](https://thautwarm.github.io/Site-32/), 
 - [Unique Investigations in Python](https://github.com/thautwarm/index-thautwarm#unique-investigations-in-python)
 - [Enjoying the Freedom of Julia](https://github.com/thautwarm/index-thautwarm#enjoying-the-freedom-of-julia)
 - [Parsing, and fastest Python parser generator over the world](https://github.com/thautwarm/index-thautwarm#parsing)
-- [Miscellaneous](https://github.com/thautwarm/index-thautwarm#miscellaneous)
+- [Miscellaneous](https://github.com/thautwarm/index-thautwarm/blob/master/README.md#miscellaneous)
 
 
 -----------------------------------------------
